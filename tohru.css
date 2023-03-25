@@ -1,7 +1,7 @@
 body{
-	margin: 0;
+	margin: 0 auto;
 	
-		font-family: Helvetica, Arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 50px;
 	line-height: 20px;
 	background-color: lavenderblush;
@@ -44,6 +44,7 @@ p{
 	font-size: 25px;
 	color: black;
 	text-align: center;
+	margin: 0 auto;
 }
 ol{
 	font-size: 25px;
