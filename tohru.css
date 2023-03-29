@@ -1,7 +1,7 @@
 body{
 	margin: 0 auto;
 	
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Jost', sans-serif;
 	font-size: 40px;
 	line-height: 20px;
 	background-color: lavenderblush;
@@ -28,6 +28,7 @@ header img{
 	border-width: 300px;
 	border: solid 10px indigo;
 	margin: 0 auto;
+	
 
 }
 main{
@@ -41,7 +42,9 @@ h2{
 	font-size: 35px;
 	color: purple;
 	letter-spacing: 0;
+
 }
+
 p{
 	font-size: 20px;
 	color: black;
